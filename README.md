@@ -5,12 +5,12 @@ Executando o comando `terraform init`
 ![alt text](assets/init.png)
 
 ## Vizualizar o plano de Execução
-Executando o comando `teraform plan`
+Executando o comando `terraform plan`
 ![alt text](assets/plan-1.png)
 ![alt text](assets/plan-2.png)
 
 ## Aplicar plano 
-Executando o comando `teraform apply`
+Executando o comando `terraform apply`
 ![alt text](assets/apply-1.png)
 ![alt text](assets/apply-2.png)
 
